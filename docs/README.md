@@ -1,13 +1,9 @@
 
-# Test md with plantuml
+# Документация к проекту
 
-<!--
-@startuml firstDiagram
 
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-
-@enduml
--->
-
-![](firstDiagram.svg)
+# Варинты турнирных сеток
+ - [Double Elimination](./double-elimination.md)
+ - [Round-robin](./round-robin.md)
+ - [Swiss-system](./swiss-system.md)
+ - [Single-elimination](./single-elimination.md)
