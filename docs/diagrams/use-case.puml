@@ -1,0 +1,14 @@
+
+@startuml
+
+actor :Regular user: as ruser
+
+(Create tournament) as (createTournament)
+(Change player status in tournament)
+(Close tournament)
+
+(Create game)
+(Set game score)
+(Cancel game)
+
+@enduml
